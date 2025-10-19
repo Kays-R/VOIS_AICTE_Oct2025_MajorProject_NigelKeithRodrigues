@@ -13,7 +13,8 @@
 
 ### Significance of the Study:
 	• This analysis is significant for understanding Netflix’s content evolution and audience engagement patterns. 
-	• By identifying popular genres and underrepresented regions, the study offers actionable insights that can help Netflix make data-driven business decisions. Such findings are valuable for:
+	• By identifying popular genres and underrepresented regions, the study offers actionable insights that can help Netflix make data-driven business decisions. 
+	• Such findings are valuable for:es
 	• Enhancing content strategy and balancing global vs. local productions.
 	• Recognizing market trends and regional viewer interests.
 	• Supporting strategic investments in specific content types and countries.
